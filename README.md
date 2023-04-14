@@ -52,4 +52,4 @@ As mentioned above, there are many ways to host your project for free. Our recom
 
 **Have fun building!** 🚀
 
-## Derste isimize yaradi.
+## Derste isimize yaradi.g
